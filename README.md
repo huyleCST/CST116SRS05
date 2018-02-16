@@ -2,12 +2,12 @@
 Date List
 
 
-Class ID:  
+Class ID:  Escavalier
 
 SRS ID: CST116SRS05  
 
 Unresolved Issues:  
-
+logic error. Could not get number of dates counted correctly. I think that number of day per month is the source of problem. But, not sure how to fix it.
 Notes:  
 
 
