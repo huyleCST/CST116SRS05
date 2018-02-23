@@ -7,7 +7,7 @@ Class ID:  Escavalier
 SRS ID: CST116SRS05  
 
 Unresolved Issues:  
-logic error. Could not get number of dates counted correctly. I think that number of day per month is the source of problem. But, not sure how to fix it.
+logic error. Could not get number of dates displayed correctly becuase the number of days per month is set to 30, which could the source of problem. Not sure how to fix it.
 Notes:  
 
 
